@@ -2,5 +2,3 @@
 
 2. Исходный файл (Исходник.xlsx) отредактирован в Power Query, поэтому колонки, а также данные колонок в Power BI могут отличаться. Например, колонка "Сегмент" из исходника представлена в Power BI как "Заказчики".
 
-<img width="1311" height="735" alt="image" src="https://github.com/user-attachments/assets/55eac7e3-7a76-4f44-83ea-4ffa456fa64d" />
-[Продажи Дашборд.pdf](https://github.com/user-attachments/files/21216997/default.pdf)
